@@ -1,8 +1,8 @@
 ## Ethan Gallant
 
-Open-source intelligence casework and tooling. London, UK.
+Open-source intelligence casework. London, UK.
 
-I publish investigations on **[Substack](https://ethangallantosint.substack.com)** and build small tools to automate parts of the workflow.
+I publish investigations on **[Substack](https://ethangallantosint.substack.com)**, with a focus on calibrated, methodology-led analysis.
 
 ### What I work on
 - Geolocation and chronolocation
@@ -11,17 +11,20 @@ I publish investigations on **[Substack](https://ethangallantosint.substack.com)
 - Verification of open-source media
 
 ### Recent writeups
-- *[Title of first case]* — May 2026
+- *[The Puzzle Hidden in the Window: Identifying MSC Euribia at Zayed Port](https://ethangallantosint.substack.com/p/the-puzzle-hidden-in-the-window-identifying)* — June 2026
+- *[Identifying a Boeing 787 from a single window shot over Chicago](https://ethangallantosint.substack.com/p/identifying-a-boeing-787-from-a-single)* — June 2026
 - More on the [Substack](https://ethangallantosint.substack.com)
 
-### Tools
-- **[tool-name]** — short description of what it does. Python.
-- **[tool-name-2]** — short description. Python.
+### Publications
+- Contributor, *Common Futures* programme — Chatham House, April 2026 ([*The End of Centralised Deterrence*](https://commonfutures.chathamhouse.org/post/3885714))
 
 ### Training
-- Bellingcat Online Investigation Toolkit (2026)
-- *Verification Handbook* (EU Disinformation Lab) — 2026
-- Harvard CS50P — in progress
+- In-person surveillance training, Dilitas Ltd — June 2026
+- Investigative skills course, Dilitas Ltd — September 2026 (upcoming)
+- Bellingcat Online Investigation Toolkit — working through, 2026
+- *A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis* (CIA) — read, 2026
+- *Verification Handbook* — read, 2026
+- Harvard CS50P (Python) — in progress
 
 ### Find me
-🌐 [ethangallant.co.uk](https://ethangallant.co.uk) · ✉️ ethan@ethangallant.co.uk · 𝕏 [@ethangallant](https://x.com/ethangallant) · 💼 [LinkedIn](https://linkedin.com/in/ethangallant)
+🌐 [ethangallant.co.uk](https://ethangallant.co.uk) · ✉️ ethan@ethangallant.co.uk · 𝕏 [@egallantosint](https://x.com/egallantosint) · 💼 [LinkedIn](https://linkedin.com/in/ethangallant)
